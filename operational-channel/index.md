@@ -12,7 +12,7 @@
 
 点评：区块链项目使用其发周报/合作/活动等信息，区块链媒体使用其发翻译/原创/PR等类别的文章。
 
-![](//operational-channel/img/weixin-1.png) 
+![](/operational-channel/img/weixin-1.png) 
 
 **公众号类型功能介绍**
 
