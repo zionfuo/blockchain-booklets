@@ -39,3 +39,5 @@
 Bitcoin : 1DJqxhGAD4kfsbfyCBEjKicJkGfj6UuRth
 
 Ethereum : 0x65383035346b6d44B90f9F45007F0E2eb655BB74
+
+Bytom : bm1qcdeu8sx7ewgvr56cfanq5lhm2vwqxc740w3mz6
