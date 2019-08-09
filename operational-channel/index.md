@@ -12,15 +12,15 @@
 
 点评：区块链项目使用其发周报/合作/活动等信息，区块链媒体使用其发翻译/原创/PR等类别的文章。
 
-![](/operational-channel/img/weixin-1.png) 
+![](//operational-channel/img/weixin-1.png) 
 
 **公众号类型功能介绍**
 
-![](operational-channel/img/weixin-2.jpg) 
+![](/operational-channel/img/weixin-2.jpg) 
 
 **服务号、订阅号功能区别**
 
-![](operational-channel/img/weixin-3.jpg) 
+![](/operational-channel/img/weixin-3.jpg) 
 
 #### 微博
 
@@ -30,7 +30,7 @@
 
 点评：区块链项目及媒体使用其和粉丝进行交流，孙同学是这方面的佼佼者连续上热搜多次。
 
-![](operational-channel/img/weibo.png) 
+![](/operational-channel/img/weibo.png) 
 
 #### 知乎
 
@@ -40,7 +40,7 @@
 
 点评：区块链项目及媒体使用其发文章及回答问题，用来提高知名度。
 
-![](operational-channel/img/zhihu.png) 
+![](/operational-channel/img/zhihu.png) 
 
 #### 哔哩哔哩
 
@@ -50,7 +50,7 @@ bilibili，全称为哔哩哔哩弹幕网，简称为B站。是中国大陆一�
 
 点评：因视频无广告，用户优质而闻名，区块链项目及媒体可以通过他宣传视频资源。
 
-![](operational-channel/img/bilibili.png) 
+![](/operational-channel/img/bilibili.png) 
 
 #### 一直播
 
@@ -60,7 +60,7 @@ bilibili，全称为哔哩哔哩弹幕网，简称为B站。是中国大陆一�
 
 点评：因为神奇的数据统计方式，使其成为了区块链媒体及项目最爱的直播方式。
 
-![](operational-channel/img/yizhibo.png) 
+![](/operational-channel/img/yizhibo.png) 
 
 #### 搜狐号
 
@@ -70,7 +70,7 @@ bilibili，全称为哔哩哔哩弹幕网，简称为B站。是中国大陆一�
 
 点评：因为他的搜索引擎收录能力，使其成为了区块链媒体及项目不可或缺的宣传途径。
 
-![](operational-channel/img/sohu.png) 
+![](/operational-channel/img/sohu.png) 
 
 ### 国外
 
@@ -82,7 +82,7 @@ Twitter是一个社交网络与微博客服务，它可以让用户更新不超�
 
 点评：全球人民都知道的平台，区块链的项目及媒体必出现的平台。
 
-![](operational-channel/img/twitter.png) 
+![](/operational-channel/img/twitter.png) 
 
 #### Facebook
 
@@ -92,7 +92,7 @@ Facebook是源于美国的社交网络服务及社会化媒体网站。
 
 点评：全球人民都知道的平台，区块链的项目及媒体必出现的平台。
 
-![](operational-channel/img/facebook.jpg) 
+![](/operational-channel/img/facebook.jpg) 
 
 #### Medium
 
@@ -102,7 +102,7 @@ Medium 是一个博客发布平台。
 
 点评：区块链的项目及媒体必出现的平台，编辑器好用多被项目、媒体等作为首选博客工具。
 
-![](operational-channel/img/medium.png) 
+![](/operational-channel/img/medium.png) 
 
 #### YouTube
 
@@ -112,7 +112,7 @@ YouTube是源自美国的视频分享网站，让用户上传、观看、分享�
 
 点评：全球人民都知道的平台，区块链的项目及媒体必出现的平台。
 
-![](operational-channel/img/youtube.png) 
+![](/operational-channel/img/youtube.png) 
 
 #### Instagram
 
@@ -122,7 +122,7 @@ Instagram是Facebook公司旗下一款免费提供在线图片及视频分享的
 
 点评：全球人民都知道的平台，是一个发会议照片的好去处。
 
-![](operational-channel/img/instagram.png) 
+![](/operational-channel/img/instagram.png) 
 
 #### Vimeo
 
@@ -132,7 +132,7 @@ Vimeo是一个以视频为中心的社会化网络站点。
 
 点评：以高清画质而闻名，是一个放活动宣传剪辑短视频的好地方。
 
-![](operational-channel/img/vimeo.png) 
+![](/operational-channel/img/vimeo.png) 
 
 #### Linkedin
 
@@ -142,7 +142,7 @@ LinkedIn，中文名为领英，是一款面向为商业人士使用的社交网
 
 点评：招人找人找合作查简历的好去处。
 
-![](operational-channel/img/linkedin.png) 
+![](/operational-channel/img/linkedin.png) 
 
 #### Twitch
 
@@ -152,7 +152,7 @@ Twitch是游戏软件影音流平台。
 
 点评：是一个不错的直播平台，可以用来进行授课型直播。
 
-![](operational-channel/img/twitch.png) 
+![](/operational-channel/img/twitch.png) 
 
 #### Naver
 
@@ -162,7 +162,7 @@ Naver博客是韩国最大搜索引擎Naver推出的社会性网络服务。
 
 点评：韩国区块链比较火热，项目方进入韩国必入驻的平台。
 
-![](operational-channel/img/naver.png) 
+![](/operational-channel/img/naver.png) 
 
 ## 技术运营
 
@@ -176,7 +176,7 @@ Naver博客是韩国最大搜索引擎Naver推出的社会性网络服务。
 
 点评：界面略丑，但搜索引擎收录效果极好。
 
-![](operational-channel/img/cnblogs.png) 
+![](/operational-channel/img/cnblogs.png) 
 
 #### 开源中国
 
@@ -186,7 +186,7 @@ OSCHINA成立于2008年8月，是目前国内最大的开源技术社区。
 
 点评：界面有一点丑，但搜索引擎收录效果较好。
 
-![](operational-channel/img/oschina.png) 
+![](/operational-channel/img/oschina.png) 
 
 #### SegmentFault
 
@@ -196,7 +196,7 @@ OSCHINA成立于2008年8月，是目前国内最大的开源技术社区。
 
 点评：编辑器体验较好，搜索引擎收录效果较好。
 
-![](operational-channel/img/segmentfault.png) 
+![](/operational-channel/img/segmentfault.png) 
 
 #### 云栖社区
 
@@ -206,7 +206,7 @@ OSCHINA成立于2008年8月，是目前国内最大的开源技术社区。
 
 点评：用户质量较好，搜索引擎收录效果较好。
 
-![](operational-channel/img/yq.png) 
+![](/operational-channel/img/yq.png) 
 
 #### 云+社区
 
@@ -216,7 +216,7 @@ OSCHINA成立于2008年8月，是目前国内最大的开源技术社区。
 
 点评：编辑器体验较好，用户质量较好，搜索引擎收录效果较好。
 
-![](operational-channel/img/tencent.png) 
+![](/operational-channel/img/tencent.png) 
 
 #### CSDN
 
@@ -226,7 +226,7 @@ CSDN专业IT技术社区。
 
 点评：用户体验差，搜索引擎收录效果较好。
 
-![](operational-channel/img/csdn.png) 
+![](/operational-channel/img/csdn.png) 
 
 #### 掘金
 
@@ -236,7 +236,7 @@ CSDN专业IT技术社区。
 
 点评：编辑器体验较好，用户质量较好，搜索引擎收录效果较好。
 
-![](operational-channel/img/juejin.png)
+![](/operational-channel/img/juejin.png)
 
 #### 简书
 
@@ -246,7 +246,7 @@ CSDN专业IT技术社区。
 
 点评：编辑器体验较好，搜索引擎收录效果较好。
 
-![](operational-channel/img/jianshu.png)
+![](/operational-channel/img/jianshu.png)
 
 #### V2EX
 
@@ -256,7 +256,7 @@ V2EX是一个技术创意网站，官方自称为一个“由设计师、程序�
 
 点评：搜索引擎收录效果较好，是个招聘灌水的好地方。
 
-![](operational-channel/img/v2ex.png)
+![](/operational-channel/img/v2ex.png)
 
 ### 国外
 
@@ -268,7 +268,7 @@ Reddit是一个娱乐、社交及新闻网站，注册用户可以将文字或�
 
 点评：全球人民都知道的平台，可以新建论坛供用户讨论问题。
 
-![](operational-channel/img/reddit.png)
+![](/operational-channel/img/reddit.png)
 
 #### Stack Overflow
 
@@ -278,7 +278,7 @@ Stack Overflow是一个程序设计领域的问答网站，隶属Stack Exchange 
 
 点评：全球程序员都知道的平台，技术问题集合地，还可以使用Stack Exchange创建自己的问答网站。
 
-![](operational-channel/img/stackoverflow.png)
+![](/operational-channel/img/stackoverflow.png)
 
 #### Hacker News
 
@@ -288,7 +288,7 @@ Hacker News 是一家关于计算机黑客和创业公司的社会化新闻网�
 
 点评：全球程序员都知道的平台，新闻集合地，丑是丑了点重在影响力。
 
-![](operational-channel/img/hackernews.png)
+![](/operational-channel/img/hackernews.png)
 
 #### DZone
 
@@ -298,7 +298,7 @@ DZone是一个允许用户分享最新IT新闻和编程资源的社区。
 
 点评：全球程序员都知道的平台，文章内容驱动的社区。
 
-![](operational-channel/img/dzone.png)
+![](/operational-channel/img/dzone.png)
 
 #### Hashnode
 
@@ -308,7 +308,7 @@ Hashnode的Devblog是一种为开发人员开发博客的新方式。
 
 点评：新平台，UI年轻化，比较文艺。
 
-![](operational-channel/img/hashnode.png)
+![](/operational-channel/img/hashnode.png)
 
 #### dev.to
 
@@ -318,7 +318,7 @@ Hashnode的Devblog是一种为开发人员开发博客的新方式。
 
 点评：新平台，年轻化，比较文艺。
 
-![](operational-channel/img/devto.png)
+![](/operational-channel/img/devto.png)
 
 #### OpenHub
 
@@ -328,7 +328,7 @@ Hashnode的Devblog是一种为开发人员开发博客的新方式。
 
 点评：创建自己的项目，看看项目的活跃情况。
 
-![](operational-channel/img/openhub.png)
+![](/operational-channel/img/openhub.png)
 
 #### AlternativeTo
 
@@ -338,7 +338,7 @@ Hashnode的Devblog是一种为开发人员开发博客的新方式。
 
 点评：创建自己的项目，当用户搜竞品的时候出现自家产品。
 
-![](operational-channel/img/alternativeto.png)
+![](/operational-channel/img/alternativeto.png)
 
 ### 软件镜像
 
@@ -350,7 +350,7 @@ GitHub是通过Git进行版本控制的软件源代码托管服务平台。
 
 点评：全球程序员都知道的平台，最大的同性交友社区。
 
-![](operational-channel/img/github.png)
+![](/operational-channel/img/github.png)
 
 #### GitLab
 
@@ -360,7 +360,7 @@ Git仓库托管服务，协作式版本控制平台。
 
 点评：好用，开源，可自建。
 
-![](operational-channel/img/gitlab.png)
+![](/operational-channel/img/gitlab.png)
 
 #### SourceForge
 
@@ -370,7 +370,7 @@ Git仓库托管服务，协作式版本控制平台。
 
 点评：全球程序员都知道的平台，除了广告多没有什么缺点。
 
-![](operational-channel/img/sourceforge.png)
+![](/operational-channel/img/sourceforge.png)
 
 #### OSDN
 
@@ -380,7 +380,7 @@ Git仓库托管服务，协作式版本控制平台。
 
 点评：国内下载速度比SourceForge快，且拥有很多学校镜像。
 
-![](operational-channel/img/osdn.png)
+![](/operational-channel/img/osdn.png)
 
 #### Gitee
 
@@ -390,7 +390,7 @@ Git仓库托管服务，协作式版本控制平台。
 
 点评：因为国内速度快，缺点都能忍了。
 
-![](operational-channel/img/gitee.png)
+![](/operational-channel/img/gitee.png)
 
 #### Gitea（Gogs）
 
@@ -400,7 +400,7 @@ Gitea是Gogs社区维护版本
 
 点评：小型团队自建首选，现有服务有[codeberg](https://codeberg.org/)、[gitea.com](https://gitea.com/)都是基于这个搭建的。
 
-![](operational-channel/img/gitea.png)
+![](/operational-channel/img/gitea.png)
 
 ## 活动运营
 
@@ -414,7 +414,7 @@ Gitea是Gogs社区维护版本
 
 点评：国内大型的活动网站，活动必发，有必要的话可以和他们进行合作。
 
-![](operational-channel/img/huodongxing.png)
+![](/operational-channel/img/huodongxing.png)
 
 #### 百格活动
 
@@ -424,7 +424,7 @@ Gitea是Gogs社区维护版本
 
 点评：国内知名活动网站，因为他的独立二级域名，导致很多技术活动都有它。
 
-![](operational-channel/img/bagevent.png)
+![](/operational-channel/img/bagevent.png)
 
 #### 互动吧
 
@@ -434,7 +434,7 @@ Gitea是Gogs社区维护版本
 
 点评：国内知名活动网站，活动很多。
 
-![](operational-channel/img/hdb.png)
+![](/operational-channel/img/hdb.png)
 
 #### 活动家
 
@@ -444,7 +444,7 @@ Gitea是Gogs社区维护版本
 
 点评：国内知名活动网站，商务活动较多。
 
-![](operational-channel/img/huodongjia.png)
+![](/operational-channel/img/huodongjia.png)
 
 #### KKTIX（台湾）
 
@@ -454,7 +454,7 @@ Gitea是Gogs社区维护版本
 
 点评：活动很多，技术活动，科技类活动较多。
 
-![](operational-channel/img/kktix.png)
+![](/operational-channel/img/kktix.png)
 
 #### Citytalk城市通（台湾）
 
@@ -464,7 +464,7 @@ Gitea是Gogs社区维护版本
 
 点评：娱乐型活动较多。
 
-![](operational-channel/img/citytalk.png)
+![](/operational-channel/img/citytalk.png)
 
 #### 其他
 
@@ -480,7 +480,7 @@ Meetup是一种服务，用于组织在线组，为有相似兴趣的人举办�
 
 点评：活动多而全，小型活动强烈推荐。
 
-![](operational-channel/img/meetup.png)
+![](/operational-channel/img/meetup.png)
 
 #### Eventbrite
 
@@ -490,7 +490,7 @@ Eventbrite是一家总部位于美国的活动管理和票务网站。
 
 点评：活动多而全，大型活动强烈推荐。
 
-![](operational-channel/img/eventbrite.png)
+![](/operational-channel/img/eventbrite.png)
 
 ## 社群运营
 
@@ -518,7 +518,7 @@ Discord是一款专为电子游戏社区设计的免费网络实时通话软件�
 
 点评：以太坊的社群在这里，别的就不多说了。
 
-![](operational-channel/img/discordapp.png)
+![](/operational-channel/img/discordapp.png)
 
 #### Telegram
 
@@ -528,7 +528,7 @@ Telegram是一个跨平台的即时通信软件。
 
 点评：区块链水军一大堆，专业的群组也很多。
 
-![](operational-channel/img/telegram.png)
+![](/operational-channel/img/telegram.png)
 
 #### Slack
 
@@ -538,7 +538,7 @@ Slack是由Slack Technologies开发的美国基于云的专有团队协作软件
 
 点评：团队协同软件，科技型公司会用他。
 
-![](operational-channel/img/slack.png)
+![](/operational-channel/img/slack.png)
 
 #### Gitter
 
@@ -548,7 +548,7 @@ Gitter是GitHub存储库的开发人员和用户的即时通讯聊天室系统�
 
 点评：以太坊老版社区使用这个。
 
-![](operational-channel/img/gitter.png)
+![](/operational-channel/img/gitter.png)
 
 #### Kakao（韩国）
 
@@ -558,7 +558,7 @@ KakaoTalk是一款免费的智能手机应用程序通讯服务软件。
 
 点评：进入韩国市场必用。
 
-![](operational-channel/img/kakaocorp.png)
+![](/operational-channel/img/kakaocorp.png)
 
 #### LINE
 
@@ -568,7 +568,7 @@ KakaoTalk是一款免费的智能手机应用程序通讯服务软件。
 
 点评：日本、台湾市场必用。
 
-![](operational-channel/img/line.png)
+![](/operational-channel/img/line.png)
 
 #### Mailing Lists
 
@@ -578,7 +578,7 @@ KakaoTalk是一款免费的智能手机应用程序通讯服务软件。
 
 点评：可以用谷歌的也可以使用Mailman自己部署一个邮件列表。
 
-![](operational-channel/img/mailinglists.png)
+![](/operational-channel/img/mailinglists.png)
 
 #### IRC
 
@@ -588,7 +588,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：和邮件列表一样属于技术社群的一部分。
 
-![](operational-channel/img/freenode.png)
+![](/operational-channel/img/freenode.png)
 
 ## 区块链渠道
 
@@ -602,7 +602,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：区块链老牌媒体。
 
-![](operational-channel/img/8btc.png)
+![](/operational-channel/img/8btc.png)
 
 #### 金色财经
 
@@ -612,7 +612,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：区块链知名媒体。
 
-![](operational-channel/img/jinse.png)
+![](/operational-channel/img/jinse.png)
 
 #### 链闻
 
@@ -622,7 +622,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：区块链知名媒体，设计新颖，文章质量不错。
 
-![](operational-channel/img/chainnews.png)
+![](/operational-channel/img/chainnews.png)
 
 #### 火星财经
 
@@ -632,7 +632,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：区块链知名媒体。
 
-![](operational-channel/img/huoxing24.png)
+![](/operational-channel/img/huoxing24.png)
 
 #### 链节点
 
@@ -642,7 +642,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：由巴比特链吧拆分出来的，社区流量不错。
 
-![](operational-channel/img/chainnode.png)
+![](/operational-channel/img/chainnode.png)
 
 ### 国外
 
@@ -654,7 +654,7 @@ IRC是一个位于应用层的协议，起始于1988年。
 
 点评：项目白皮书等信息更新了记得填表单申请修改。
 
-![](operational-channel/img/coinmarketcap.png)
+![](/operational-channel/img/coinmarketcap.png)
 
 #### BitcoinTalk
 
@@ -664,7 +664,7 @@ Bitcointalk是一个关于比特币的论坛，国球最大的区块链交流社
 
 点评：宇宙第一，不容争辩。
 
-![](operational-channel/img/bitcointalk.png)
+![](/operational-channel/img/bitcointalk.png)
 
 #### CoinDesk
 
@@ -674,7 +674,7 @@ CoinDesk是一个专注于比特币和数字货币的新闻网站。
 
 点评：资讯最牛皮，不容争辩。
 
-![](operational-channel/img/coindesk.png)
+![](/operational-channel/img/coindesk.png)
 
 #### Cointelegraph
 
@@ -684,7 +684,7 @@ CoinDesk是一个专注于比特币和数字货币的新闻网站。
 
 点评：插画很牛皮很牛皮。
 
-![](operational-channel/img/cointelegraph.png)
+![](/operational-channel/img/cointelegraph.png)
 
 #### Bitcoin Magazine
 
@@ -694,6 +694,6 @@ Vitalik Buterin 与 Mihai Alisie 共同创办的比特币网上杂志。
 
 点评：爸爸决定一切，了解一下。
 
-![](operational-channel/img/bitcoinmagazine.png)
+![](/operational-channel/img/bitcoinmagazine.png)
 
 （未完待续 2019/8/9 更新）
