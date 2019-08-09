@@ -8,4 +8,34 @@
 
 ## 目录
 
-### [必知的运营渠道](/operational-channel/index.md) 
+必知的区块链常识
+
+[必知的运营渠道](/operational-channel/index.md) 
+
+必知的金融常识
+
+必知的运营常识
+
+必知的品牌常识
+
+必知的风控常识
+
+必知的投资常识
+
+必知的背调常识
+
+必知的统计学常识
+
+必知的密码学常识
+
+必知的项目管理常识
+
+必知的开源&软件常识
+
+（等待制造出来）
+
+## 打赏
+
+Bitcoin : 1DJqxhGAD4kfsbfyCBEjKicJkGfj6UuRth
+
+Ethereum : 0x65383035346b6d44B90f9F45007F0E2eb655BB74
