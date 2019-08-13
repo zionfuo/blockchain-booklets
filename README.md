@@ -14,7 +14,7 @@
 
 必知的金融常识
 
-必知的运营常识
+[必知的运营常识](/operational-common-sense/index.md) 
 
 必知的品牌常识
 
